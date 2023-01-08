@@ -21,11 +21,11 @@ let questions = [
     answer: 3,
 
 },
-{ question: 'How do you find the minimum of x and y using JavaSCript?',
-    choice1: 'min(x,y):',
-    choice2: 'Math.min(x,y)',
-    choice3: 'Math.min(xy)',
-    choice4: 'min(xy):',
+{ question: 'What is MKAG?',
+    choice1: 'M K A G ',
+    choice2: 'MKAG STUDIOS',
+    choice3: 'MK to the AG',
+    choice4: 'MKAG',
     answer: 2,
 
 },
