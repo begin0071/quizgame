@@ -13,7 +13,7 @@ let availableQuestions = []
 
 
 let questions = [
-    { question: 'JavaScript is a ______-side programming language',
+    { question: 'JavaScript is a ______side programming language',
     choice1: 'Client',
     choice2: 'Server',
     choice3: 'Both',
@@ -24,8 +24,8 @@ let questions = [
 { question: 'What is MKAG?',
     choice1: 'M K A G ',
     choice2: 'MKAG STUDIOS',
-    choice3: 'MK to the AG',
-    choice4: 'MKAG',
+    choice3: 'Math.min(xy)',
+    choice4: 'min(xy):',
     answer: 2,
 
 },
@@ -47,6 +47,14 @@ let questions = [
 }
     
 ]
+
+//Creating Timer For Quiz Timer Section
+
+
+
+
+
+
 
 
 const SCORE_POINTS = 100
